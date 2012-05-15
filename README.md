@@ -2,7 +2,7 @@
 
 Just a small experiment for `#instance_eval` and all the stuff you can do with it.
 
-Servers as a subject for my talk at Cologne.rb in May 2012. This is not intended for serious use, just for fun and discussing.
+Serves as a subject for my talk at Cologne.rb in May 2012. This is not intended for serious use, just for fun and discussing.
 
 To run it:
 
